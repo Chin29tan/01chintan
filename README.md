@@ -1,4 +1,4 @@
 # 01chintan
 This is my first git Repository.
 <br>
-Author - Gondaliya Chintan
+Author - Chintan (01chintan)
